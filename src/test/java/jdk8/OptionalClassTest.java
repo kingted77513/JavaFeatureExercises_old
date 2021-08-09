@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 
 import java.util.Optional;
 
-public class OptionalFeatureExercises {
+public class OptionalClassTest {
 
     @Test
     public void isPresent_WrapNullObject_ReturnFalse(){
